@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Realtime Election Voting System
 ===============================
 
@@ -82,3 +83,6 @@ streamlit run streamlit-app.py
 
 ## Video
 [![Realtime Voting System Data Engineering](https://img.youtube.com/vi/X-JnC9daQxE/0.jpg)](https://youtu.be/X-JnC9daQxE)
+=======
+# Realtime_Voting_System
+>>>>>>> 590fc171a4dfc76d8f8cc937cb70a55bd360b888
